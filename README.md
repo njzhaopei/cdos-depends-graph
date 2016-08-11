@@ -14,6 +14,7 @@ eg.
     
 二、 列出单个软件包的依赖关系 
   执行命令： python mainListDepends.py [package_name] [optional:depth]
+
 eg. 
    
     python mainListDepends.py zip #默认列出zip包的单层依赖和被依赖关系，并且可视化数据输出到image目录中
